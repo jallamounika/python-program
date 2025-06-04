@@ -1,0 +1,6 @@
+f=open("C:\\Users\\thall\\OneDrive\\Desktop\\demo.txt","r")
+print("file object is opened")
+print(f)
+data=f.read()
+print(data)
+
